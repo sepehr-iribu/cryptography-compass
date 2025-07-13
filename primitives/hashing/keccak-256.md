@@ -34,8 +34,4 @@ Keccak-256 is prominently used in Ethereum, where it serves as the basis for has
  The state undergoes multiple rounds of transformations that mix and diffuse the input data, enhancing security.
 #### Squeezing Phase:
  After absorbing the input, the output is extracted from the state. Keccak-256 produces a 256-bit hash output.
-## signing (signing header and body with something)
-- RS256 (RSA + SHA256) nonsymmetric - > shared key for both generating and validating signiture
-- HS256 (HMAC + SHA256) symmetric 
-  - private key : for generating signiture
-  - public key : for validating
+
