@@ -1,3 +1,4 @@
+![Alt Text](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*-q0OB65GCekDIm-6.png)
 ## FrodoKEM: Post-Quantum Key Encapsulation Mechanism (KEM)
 
 FrodoKEM is a leading candidate in the field of Post-Quantum Cryptography (PQC). Its primary goal is to securely establish a shared secret key between two parties (e.g., a client and a server) over an insecure channel, even if powerful quantum computers become available. Unlike traditional public-key encryption (PKE) schemes that encrypt arbitrary messages, KEMs are specifically designed for this one-time secret key agreement, which then allows for efficient symmetric encryption of subsequent communications.
